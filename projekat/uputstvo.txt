@@ -1,0 +1,18 @@
+1. Скинути фолдер са следећег гитхаб линка:
+	https://github.com/JovanZubovic/LPRS2-projekat-
+
+2. Одзиповати, па отворити у терминалу помоћу: Десни клик-Отвори у терминалу
+
+3. У терминалу унети команду
+	sudo ./waf prerequisites
+Ако је све у реду, унети
+	./waf configure
+
+4. Повезати Ардуино Уно са ЛЦД штитом преко УСБ
+
+5. Унети команду
+	./waf build run --app=sprite_anim
+
+Видео доступан на следећем линку:
+	https://www.youtube.com/shorts/QpaGVSO5zss
+
